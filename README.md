@@ -1,6 +1,6 @@
-docker-project
+DOCKER PROJECT
 <p>
-I did the docker course of IIEC_RISE under the guidance of Mr. Vimal Daga.
+I did the docker course of IIEC_RISE under the guidance of Mr. Vimal Daga Sir.
 
 It uses the concept of Infrastructure As Code(IAC) implemented using docker-compose on top of RHEL 8. 
 
