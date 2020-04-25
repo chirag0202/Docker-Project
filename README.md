@@ -1,4 +1,4 @@
-<title>docker-project</title>
+docker-project
 <p>
 I did the docker course of IIEC_RISE under the guidance of Mr. Vimal Daga.
 
